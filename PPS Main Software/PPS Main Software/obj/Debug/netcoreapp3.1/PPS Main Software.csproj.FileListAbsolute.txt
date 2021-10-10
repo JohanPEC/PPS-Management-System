@@ -1,0 +1,19 @@
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\bin\Debug\netcoreapp3.1\PPS Main Software.exe
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\bin\Debug\netcoreapp3.1\PPS Main Software.deps.json
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\bin\Debug\netcoreapp3.1\PPS Main Software.runtimeconfig.json
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\bin\Debug\netcoreapp3.1\PPS Main Software.runtimeconfig.dev.json
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\bin\Debug\netcoreapp3.1\PPS Main Software.dll
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\bin\Debug\netcoreapp3.1\PPS Main Software.pdb
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS Main Software.csproj.AssemblyReference.cache
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS_Main_Software.Form1.resources
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS_Main_Software.Properties.Resources.resources
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS Main Software.csproj.GenerateResource.cache
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS Main Software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS Main Software.AssemblyInfoInputs.cache
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS Main Software.AssemblyInfo.cs
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS Main Software.csproj.CoreCompileInputs.cache
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS Main Software.dll
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS Main Software.pdb
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS Main Software.genruntimeconfig.cache
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS_Main_Software.PPS_Main_Form.resources
+C:\Users\Boeta\source\repos\PPS Main Software\PPS Main Software\obj\Debug\netcoreapp3.1\PPS_Main_Software.Reports.resources
